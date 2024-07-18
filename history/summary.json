@@ -55,42 +55,20 @@
   },
   {
     "name": "Public Rendezvous Point",
-    "url": "https://thissitedoesnotexist.koj.co",
-    "icon": "https://icons.duckduckgo.com/ip3/thissitedoesnotexist.koj.co.ico",
-    "slug": "public-rendezvous-point",
-    "status": "up",
-    "uptime": "89.33%",
-    "uptimeDay": "89.33%",
-    "uptimeWeek": "89.33%",
-    "uptimeMonth": "89.33%",
-    "uptimeYear": "89.33%",
-    "time": 151,
-    "timeDay": 151,
-    "timeWeek": 151,
-    "timeMonth": 151,
-    "timeYear": 151,
-    "dailyMinutesDown": {
-      "2024-07-18": 0
-    }
-  },
-  {
-    "name": "Public Rendezvous Point",
     "url": "discover.unstoppableswap.net",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "public-rendezvous-point",
     "status": "up",
-    "uptime": "89.36%",
-    "uptimeDay": "89.36%",
-    "uptimeWeek": "89.36%",
-    "uptimeMonth": "89.36%",
-    "uptimeYear": "89.36%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 151,
     "timeDay": 151,
     "timeWeek": 151,
     "timeMonth": 151,
     "timeYear": 151,
-    "dailyMinutesDown": {
-      "2024-07-18": 0
-    }
+    "dailyMinutesDown": {}
   }
 ]

@@ -1,7 +1,7 @@
 url: https://api.unstoppableswap.net/api/list
-status: down
-code: 502
-responseTime: 6299
-lastUpdated: 2024-07-19T07:11:24.092Z
+status: up
+code: 200
+responseTime: 396
+lastUpdated: 2024-07-19T07:25:50.239Z
 startTime: 2024-07-18T10:35:34.137Z
 generator: Upptime <https://github.com/upptime/upptime>

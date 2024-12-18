@@ -40,7 +40,7 @@
     "url": "https://api.unstoppableswap.net/api/list",
     "icon": "https://icons.duckduckgo.com/ip3/api.unstoppableswap.net.ico",
     "slug": "public-registry-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
     "uptimeDay": "88.83%",
     "uptimeWeek": "98.40%",

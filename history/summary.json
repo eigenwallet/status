@@ -40,7 +40,7 @@
     "url": "https://api.unstoppableswap.net/api/list",
     "icon": "https://icons.duckduckgo.com/ip3/api.unstoppableswap.net.ico",
     "slug": "public-registry-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -52,6 +52,7 @@
     "timeMonth": 1588,
     "timeYear": 690,
     "dailyMinutesDown": {
+      "2025-01-15": 0,
       "2024-12-18": 208,
       "2024-09-18": 20,
       "2024-07-19": 14,

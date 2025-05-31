@@ -4,19 +4,19 @@
     "url": "https://unstoppableswap.net/",
     "icon": "https://icons.duckduckgo.com/ip3/unstoppableswap.net.ico",
     "slug": "download-site",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.37%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "97.64%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 491,
-    "timeDay": 658,
-    "timeWeek": 543,
-    "timeMonth": 501,
+    "timeDay": 597,
+    "timeWeek": 526,
+    "timeMonth": 497,
     "timeYear": 491,
     "dailyMinutesDown": {
-      "2025-05-31": 23
+      "2025-05-31": 34
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://unstoppableswap.net/",
     "icon": "https://icons.duckduckgo.com/ip3/unstoppableswap.net.ico",
     "slug": "documentation-site",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.38%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "97.64%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 135,
-    "timeDay": 115,
-    "timeWeek": 120,
-    "timeMonth": 127,
+    "timeDay": 111,
+    "timeWeek": 118,
+    "timeMonth": 126,
     "timeYear": 135,
     "dailyMinutesDown": {
-      "2025-05-31": 23
+      "2025-05-31": 34
     }
   },
   {
@@ -46,9 +46,9 @@
     "slug": "public-registry-api",
     "status": "down",
     "uptime": "96.86%",
-    "uptimeDay": "97.56%",
-    "uptimeWeek": "99.65%",
-    "uptimeMonth": "99.87%",
+    "uptimeDay": "96.82%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "99.85%",
     "uptimeYear": "96.86%",
     "time": 1635,
     "timeDay": 446,
@@ -56,7 +56,7 @@
     "timeMonth": 432,
     "timeYear": 1635,
     "dailyMinutesDown": {
-      "2025-05-31": 35,
+      "2025-05-31": 46,
       "2025-05-11": 20,
       "2025-04-26": 643,
       "2025-04-25": 179,

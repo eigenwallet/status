@@ -4,54 +4,59 @@
     "url": "https://unstoppableswap.net/",
     "icon": "https://icons.duckduckgo.com/ip3/unstoppableswap.net.ico",
     "slug": "download-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 489,
-    "timeDay": 363,
-    "timeWeek": 452,
-    "timeMonth": 476,
-    "timeYear": 489,
-    "dailyMinutesDown": {}
+    "time": 488,
+    "timeDay": 316,
+    "timeWeek": 429,
+    "timeMonth": 470,
+    "timeYear": 488,
+    "dailyMinutesDown": {
+      "2025-05-31": 0
+    }
   },
   {
     "name": "Documentation Site",
     "url": "https://unstoppableswap.net/",
     "icon": "https://icons.duckduckgo.com/ip3/unstoppableswap.net.ico",
     "slug": "documentation-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 136,
-    "timeDay": 103,
-    "timeWeek": 120,
-    "timeMonth": 128,
+    "timeDay": 129,
+    "timeWeek": 125,
+    "timeMonth": 129,
     "timeYear": 136,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-31": 0
+    }
   },
   {
     "name": "Public Registry API",
     "url": "https://api.unstoppableswap.net/api/list",
     "icon": "https://icons.duckduckgo.com/ip3/api.unstoppableswap.net.ico",
     "slug": "public-registry-api",
-    "status": "up",
-    "uptime": "96.86%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "96.87%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "96.86%",
+    "uptimeYear": "96.87%",
     "time": 1635,
     "timeDay": 446,
     "timeWeek": 453,
     "timeMonth": 432,
     "timeYear": 1635,
     "dailyMinutesDown": {
+      "2025-05-31": 0,
       "2025-05-11": 20,
       "2025-04-26": 643,
       "2025-04-25": 179,
@@ -84,9 +89,9 @@
     "url": "discover.unstoppableswap.net",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "public-rendezvous-point",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -95,6 +100,8 @@
     "timeWeek": 119,
     "timeMonth": 124,
     "timeYear": 118,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-31": 0
+    }
   }
 ]

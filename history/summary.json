@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 491,
-    "timeDay": 401,
-    "timeWeek": 542,
-    "timeMonth": 527,
+    "timeDay": 412,
+    "timeWeek": 536,
+    "timeMonth": 519,
     "timeYear": 491,
     "dailyMinutesDown": {
       "2025-05-31": 34
@@ -33,7 +33,7 @@
     "time": 135,
     "timeDay": 109,
     "timeWeek": 149,
-    "timeMonth": 142,
+    "timeMonth": 140,
     "timeYear": 135,
     "dailyMinutesDown": {
       "2025-05-31": 34
@@ -45,16 +45,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.unstoppableswap.net.ico",
     "slug": "public-registry-api",
     "status": "up",
-    "uptime": "97.15%",
+    "uptime": "97.16%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.28%",
-    "uptimeYear": "97.15%",
-    "time": 1611,
-    "timeDay": 397,
-    "timeWeek": 447,
-    "timeMonth": 2201,
-    "timeYear": 1611,
+    "uptimeYear": "97.16%",
+    "time": 1608,
+    "timeDay": 338,
+    "timeWeek": 446,
+    "timeMonth": 2091,
+    "timeYear": 1608,
     "dailyMinutesDown": {
       "2025-07-05": 316,
       "2025-06-11": 3,
@@ -83,8 +83,7 @@
       "2025-01-15": 313,
       "2024-12-18": 208,
       "2024-09-18": 20,
-      "2024-07-19": 14,
-      "2024-07-18": 35
+      "2024-07-19": 14
     }
   },
   {
@@ -99,9 +98,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 118,
-    "timeDay": 90,
+    "timeDay": 91,
     "timeWeek": 122,
-    "timeMonth": 118,
+    "timeMonth": 116,
     "timeYear": 118,
     "dailyMinutesDown": {
       "2025-05-31": 23
